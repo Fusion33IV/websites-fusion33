@@ -24,6 +24,11 @@
 
 .cards {
   margin-top: 25px;
+  min-height: 77vh;
+}
+
+.footer-container{
+  max-height: 10vh;
 }
 
 .Footer {
